@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Scribers/rest-api/issues"
   },
-  "homepage": "https://github.com/Scribers/rest-api#readme"
+  "homepage": "https://github.com/Scribers/rest-api#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
