@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "RESTful api written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scribers/rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Julien Delplanque & Valentin Lecomte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scribers/rest-api/issues"
+  },
+  "homepage": "https://github.com/Scribers/rest-api#readme"
+}
